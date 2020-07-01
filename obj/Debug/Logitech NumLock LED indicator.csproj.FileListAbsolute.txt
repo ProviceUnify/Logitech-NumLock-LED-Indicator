@@ -1,0 +1,10 @@
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\bin\Debug\Logitech NumLock LED Indicator.exe.config
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\bin\Debug\Logitech NumLock LED Indicator.exe
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\bin\Debug\Logitech NumLock LED Indicator.pdb
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\Logitech NumLock LED indicator.csprojAssemblyReference.cache
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\LogitechNumLockLEDIndicator.Properties.Resources.resources
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\Logitech NumLock LED indicator.csproj.GenerateResource.cache
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\Logitech NumLock LED indicator.csproj.CoreCompileInputs.cache
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\Logitech NumLock LED Indicator.exe
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\Logitech NumLock LED Indicator.pdb
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\LogiNumLockLEDIndicator.Form1.resources

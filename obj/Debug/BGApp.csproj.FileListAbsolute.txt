@@ -1,0 +1,10 @@
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\bin\Debug\BGApp.exe.config
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\bin\Debug\BGApp.exe
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\bin\Debug\BGApp.pdb
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\BGApp.csprojAssemblyReference.cache
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\BGApp.Properties.Resources.resources
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\BGApp.csproj.GenerateResource.cache
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\BGApp.csproj.CoreCompileInputs.cache
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\BGApp.exe
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\BGApp.pdb
+D:\Provice Unity Creative\PROGRAMMING\BGApp\BGApp\obj\Debug\BGApp.Form1.resources
