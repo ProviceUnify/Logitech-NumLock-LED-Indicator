@@ -1,5 +1,5 @@
 # Installation:
-1. Download [G HUB](https://www.logitechg.com/ru-ru/innovation/g-hub.html) if hadn't do it before;
+1. Download [G HUB](https://www.logitechg.com/ru-ru/innovation/g-hub.html) if you hadn't it before;
 1. Download [Logitech NumLock LED indicator.zip](https://github.com/Provice911/Logitech-NumLock-LED-Indicator/releases/tag/1.0);
 1. Unzip it in any folder;
 1. Launch `Logitech NumLock LED Indicator.exe`
