@@ -39,4 +39,4 @@ For proper uninstalling I recommend use `uninstall.bat`. It's automatically kill
 >
 > ![Error on Edit](https://cdn.discordapp.com/attachments/586286335095078920/727897459610615898/unknown.png)
 
-**`Logitech NumLock LED Indicator.exe.config` file removed, corrupted or it content invalid. Program will work but settings doesn't will stored. Used defalut program start delay in 10 seconds. You can redownload this file from [here](https://github.com/ProviceUnify/Logitech-NumLock-LED-Indicator/releases/tag/1.0)**
+**`Logitech NumLock LED Indicator.exe.config` file removed, corrupted or it content invalid. Program will work but settings doesn't will stored. Used defalut program start delay in 10 seconds. You can redownload this file from [here](https://github.com/ProviceUnify/Logitech-NumLock-LED-Indicator/releases)**
