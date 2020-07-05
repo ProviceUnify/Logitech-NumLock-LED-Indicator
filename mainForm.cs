@@ -95,6 +95,10 @@ namespace LogiNumLockLEDIndicator
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            /// Minimize on start
+            if (this.WindowState == FormWindowState.Minimized) this.Hide();
+            else this.Show();
+
             /// Init autostart settings checkbox text
             if (ConfigurationManager.AppSettings["delay"] == null)
             {
